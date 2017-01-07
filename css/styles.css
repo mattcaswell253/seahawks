@@ -10,6 +10,9 @@ body{
 .well{
   background-color: #002244; RGB: (0,21,50)
 }
+.container {
+  margin-top: 50px;
+}
 .jumbotron{
   background-color: #69BE28; RGB: (105,190,40)
 }
